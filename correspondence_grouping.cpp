@@ -48,6 +48,7 @@ showHelp (char *filename)
   //std::cout << "     -k:                     Show used keypoints." << std::endl;
   //std::cout << "     -c:                     Show used correspondences." << std::endl;
   //std::cout << "     -r:                     Compute the model cloud resolution and multiply" << std::endl;
+  std::cout<<"This is the third alter"<<std::endl;
   std::cout << "                             each radius given by that value." << std::endl;
   std::cout << "     --algorithm (Hough|GC): Clustering algorithm used (default Hough)." << std::endl;
   std::cout << "     --model_ss val:         Model uniform sampling radius (default 0.01)" << std::endl;
